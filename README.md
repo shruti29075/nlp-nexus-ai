@@ -73,3 +73,7 @@ All links below are valid Hugging Face resources used by this app:
 2. https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
 3. https://huggingface.co/mrm8488/bert-tiny-finetuned-sms-spam-detection
 4. https://huggingface.co/spaces
+
+## output
+
+demo video link- https://drive.google.com/file/d/1jZoeovbs2uKCZDR-qNva-oWf8tLAgS5r/view?usp=sharing
